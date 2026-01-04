@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FinExtract AI",
+  "description": "A high-performance financial data extraction tool that transforms bank statement images into structured JSON and visual dashboards using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
